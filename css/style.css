@@ -1,0 +1,37 @@
+body {
+    font-family: Helvetica;
+}
+
+header {
+    background-image: url('../img/pattern.jpeg');
+}
+
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+}
+
+/* H2 Background colors */
+.color-green {
+    background-color: mediumspringgreen;
+}
+
+.color-red {
+    background-color: lightcoral;
+}
+
+.color-blue {
+    background-color: skyblue;
+}
+
+/* Price section */
+.price {
+    font-weight: bold;
+    color: blue;
+}
